@@ -15,8 +15,8 @@ from directory with my script
 end!
 
 # You have ask?
-- [Write to me in telegram!](https://t.me/setscript) </br>
-- [Write to me in Matrix!](https://@setscript:matrix.org)
+- [Write to me in Telegram!](https://t.me/setscript) </br>
+- Write to me in Matrix: @setscript:matrix.org
 # LICENSE 
 ```
 MIT License
